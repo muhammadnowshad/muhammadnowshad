@@ -25,7 +25,7 @@
  
 ## :sassy_man:  About me
 - 👨‍💻: I am a MERN Stack Developer from Bangladesh.
-- 🏆: Black Belt Awards & Certificates from Programing Hero(https://web.programming-hero.com/). 
+- 🏆: Black Belt Awards & Certificates from [Programing Hero](https://web.programming-hero.com/). 
 - 😆: Team Member of Team Anonymous at Programing Hero Endgame.
 - 📘: I'm studying in Mathematics.
 - 🤔: I’m currently open for: An Intern or a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1B9lRh5-7yTCUBUuCyxfqo-SCibZsUGco/view).
