@@ -10,7 +10,8 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="alifahmednowshad" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100073355049292" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/facebook.svg" alt="alihaydararman" height="30" width="40" />
+  <a href="https://www.facebook.com/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme generator/master/src/images/icons/Social/facebook.svg" alt="alifahmednowshad" height="30" width="40" />
   </a>
 </p>
 <br>
